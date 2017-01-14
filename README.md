@@ -1,5 +1,11 @@
 ## Introduction
 
+## Comments to reviewer:
+
+The downloadClean.R script is used to get download the data (if not present in the directory), read it in, get a useful posixlt datetime, and pick out only the data for the two dates we are interested in. After this script has been run, all the plotting scripts can be run to obtain the plots specified in the assignment.
+
+## Original README:
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
